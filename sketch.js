@@ -163,7 +163,7 @@ function gameOver() {
       title: `Game Over!!!`,
       text: "Thanks for playing!!",
       imageUrl:
-        "./assets/player.png",
+        "./assets/arrowwImg.png",
       imageSize: "150x150",
       confirmButtonText: "Play Again"
     },
